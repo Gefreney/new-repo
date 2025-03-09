@@ -1,0 +1,5 @@
+  497  git log
+  498  git push --force origin feature
+  499  git checkout main
+  500  git merge feature
+  501  history | tail -5 > history.txt
